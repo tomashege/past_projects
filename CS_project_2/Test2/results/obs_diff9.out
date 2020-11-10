@@ -1,0 +1,50 @@
+19a20
+> DEBUG: readIn function
+20a22,24
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+21a26
+> DEBUG: display
+29a35,40
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+38a50
+> DEBUG: readIn function
+39a52,54
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+40a56
+> DEBUG: display
+48a65,70
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+57a80
+> DEBUG: readIn function
+58a82,87
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+> DEBUG: The value for G: 3
+> DEBUG: The value for G: 4
+> DEBUG: The value for I: 3
+59a89
+> DEBUG: display
+67a98,103
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+76a113
+> DEBUG: readIn function

@@ -1,0 +1,28 @@
+19a20
+> DEBUG: readIn function
+21a23
+> DEBUG: display
+29a32,37
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+38a47
+> DEBUG: readIn function
+39a49,51
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+40a53
+> DEBUG: display
+48a62,67
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+57a77
+> DEBUG: readIn function

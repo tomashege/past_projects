@@ -1,0 +1,178 @@
+304c304
+< Player 1's turn (You are Red):
+---
+> Player 2's turn (You are Yellow):
+321c321
+< 5 R * * * * * *  
+---
+> 5 Y * * * * * * 
+323c323
+< Player 2's turn (You are Yellow):
+---
+> Player 1's turn (You are Red):
+340c340
+< 5 R Y * * * * *  
+---
+> 5 Y R * * * * * 
+342c342
+< Player 1's turn (You are Red):
+---
+> Player 2's turn (You are Yellow):
+358,359c358,359
+< 4 R * * * * * *  
+< 5 R Y * * * * *  
+---
+> 4 Y * * * * * * 
+> 5 Y R * * * * * 
+361c361
+< Player 2's turn (You are Yellow):
+---
+> Player 1's turn (You are Red):
+377,378c377,378
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+---
+> 4 Y R * * * * * 
+> 5 Y R * * * * * 
+380c380
+< Player 1's turn (You are Red):
+---
+> Player 2's turn (You are Yellow):
+395,397c395,397
+< 3 R * * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+---
+> 3 Y * * * * * * 
+> 4 Y R * * * * * 
+> 5 Y R * * * * * 
+399c399
+< Player 2's turn (You are Yellow):
+---
+> Player 1's turn (You are Red):
+414,416c414,416
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+---
+> 3 Y R * * * * * 
+> 4 Y R * * * * * 
+> 5 Y R * * * * * 
+418c418
+< Player 1's turn (You are Red):
+---
+> Player 2's turn (You are Yellow):
+432,435c432,435
+< 2 R * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+---
+> 2 Y * * * * * * 
+> 3 Y R * * * * * 
+> 4 Y R * * * * * 
+> 5 Y R * * * * * 
+437c437
+< Player 1 wins!
+---
+> Player 2 wins!
+441c441
+< Player 2's turn (You are Yellow):
+---
+> Player 1's turn (You are Red):
+458c458
+< 5 Y * * * * * *  
+---
+> 5 R * * * * * * 
+460c460
+< Player 1's turn (You are Red):
+---
+> Player 2's turn (You are Yellow):
+476,477c476,477
+< 4 R * * * * * *  
+< 5 Y * * * * * *  
+---
+> 4 Y * * * * * * 
+> 5 R * * * * * * 
+479c479
+< Player 2's turn (You are Yellow):
+---
+> Player 1's turn (You are Red):
+495,496c495,496
+< 4 R * * * * * *  
+< 5 Y Y * * * * *  
+---
+> 4 Y * * * * * * 
+> 5 R R * * * * * 
+498c498
+< Player 1's turn (You are Red):
+---
+> Player 2's turn (You are Yellow):
+513,515c513,515
+< 3 R * * * * * *  
+< 4 R * * * * * *  
+< 5 Y Y * * * * *  
+---
+> 3 Y * * * * * * 
+> 4 Y * * * * * * 
+> 5 R R * * * * * 
+517c517
+< Player 2's turn (You are Yellow):
+---
+> Player 1's turn (You are Red):
+532,534c532,534
+< 3 R * * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+---
+> 3 Y * * * * * * 
+> 4 Y R * * * * * 
+> 5 R R * * * * * 
+536c536
+< Player 1's turn (You are Red):
+---
+> Player 2's turn (You are Yellow):
+550,553c550,553
+< 2 R * * * * * *  
+< 3 R * * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+---
+> 2 Y * * * * * * 
+> 3 Y * * * * * * 
+> 4 Y R * * * * * 
+> 5 R R * * * * * 
+555c555
+< Player 2's turn (You are Yellow):
+---
+> Player 1's turn (You are Red):
+569,572c569,572
+< 2 R * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+---
+> 2 Y * * * * * * 
+> 3 Y R * * * * * 
+> 4 Y R * * * * * 
+> 5 R R * * * * * 
+574c574
+< Player 1's turn (You are Red):
+---
+> Player 2's turn (You are Yellow):
+587,591c587,591
+< 1 R * * * * * *  
+< 2 R * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+---
+> 1 Y * * * * * * 
+> 2 Y * * * * * * 
+> 3 Y R * * * * * 
+> 4 Y R * * * * * 
+> 5 R R * * * * * 
+593c593
+< Player 1 wins!
+---
+> Player 2 wins!

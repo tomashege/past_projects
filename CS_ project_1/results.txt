@@ -1,0 +1,137 @@
+------------------
+Running ./testBoards/invalid1.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_alloc_1.board
+Incorrect! :(
+Expected 
+ERROR: Invalid piece allocation on line 3 but got 
+ERROR: Invalid piece allocation on line 2
+
+------------------
+Running ./testBoards/invalid_alloc_2.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_alloc_3.board
+Incorrect! :(
+Expected 
+ERROR: Invalid piece allocation on line 4 but got 
+ERROR: Invalid piece allocation on line 2
+
+------------------
+Running ./testBoards/invalid_board_1.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_board_10.board
+Incorrect! :(
+Expected 
+ERROR: Officer allocation exceeded at position j1 but got 
+ERROR: Officer allocation exceeded at position g1
+
+------------------
+Running ./testBoards/invalid_board_2.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_board_3.board
+Incorrect! :(
+Expected 
+ERROR: Illegal piece at position e7 but got 
+
+
+------------------
+Running ./testBoards/invalid_board_4.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_board_5.board
+Incorrect! :(
+Expected 
+ERROR: Pawn allocation exceeded at position e2 but got 
+ERROR: Pawn allocation exceeded at position j2
+
+------------------
+Running ./testBoards/invalid_board_6.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_board_7.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_board_8.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_board_9.board
+Incorrect! :(
+Expected 
+ERROR: Officer allocation exceeded at position g1 but got 
+ERROR: Officer allocation exceeded at position i1
+
+------------------
+Running ./testBoards/invalid_divider_1.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_divider_2.board
+Incorrect! :(
+Expected 
+ERROR: Illegal board dimension but got 
+ERROR: Officer allocation exceeded at position e8
+
+------------------
+Running ./testBoards/invalid_status_1.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_status_2.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_status_3.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_status_4.board
+Correct! :)
+
+------------------
+Running ./testBoards/invalid_status_5.board
+Correct! :)
+
+------------------
+Running ./testBoards/valid1.board
+Correct! :)
+
+------------------
+Running ./testBoards/valid_1.board
+Correct! :)
+
+------------------
+Running ./testBoards/valid_2.board
+Correct! :)
+
+------------------
+Running ./testBoards/valid_3.board
+Correct! :)
+
+------------------
+Running ./testBoards/valid_4.board
+Incorrect! :(
+Expected 
+ but got 
+ERROR: Officer allocation exceeded at position c7
+
+------------------
+Running ./testBoards/valid_5.board
+Incorrect! :(
+Expected 
+ but got 
+ERROR: Officer allocation exceeded at position f7
+
+18 tests passed
+9 tests failed

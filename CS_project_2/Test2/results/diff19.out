@@ -1,0 +1,650 @@
+19a20
+> DEBUG: readIn function
+20a22,24
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+21a26
+> DEBUG: display
+29a35,40
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+38a50
+> DEBUG: readIn function
+39a52,54
+> DEBUG: readIn function
+> DEBUG: columme: 1
+> DEBUG: givenBonds: false
+40a56
+> DEBUG: display
+48a65,70
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+57a80
+> DEBUG: readIn function
+58a82,84
+> DEBUG: readIn function
+> DEBUG: columme: 2
+> DEBUG: givenBonds: false
+59a86
+> DEBUG: display
+67a95,100
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+76a110
+> DEBUG: readIn function
+77a112,114
+> DEBUG: readIn function
+> DEBUG: columme: 3
+> DEBUG: givenBonds: false
+78a116
+> DEBUG: display
+86a125,130
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+95a140
+> DEBUG: readIn function
+96a142,144
+> DEBUG: readIn function
+> DEBUG: columme: 4
+> DEBUG: givenBonds: false
+97a146
+> DEBUG: display
+105a155,160
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+114a170
+> DEBUG: readIn function
+115a172,174
+> DEBUG: readIn function
+> DEBUG: columme: 5
+> DEBUG: givenBonds: false
+116a176
+> DEBUG: display
+124a185,190
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+133a200
+> DEBUG: readIn function
+134a202,204
+> DEBUG: readIn function
+> DEBUG: columme: 6
+> DEBUG: givenBonds: false
+135a206
+> DEBUG: display
+143a215,220
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+152a230
+> DEBUG: readIn function
+153a232,234
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+154a236
+> DEBUG: display
+162a245,250
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+171a260
+> DEBUG: readIn function
+172a262,264
+> DEBUG: readIn function
+> DEBUG: columme: 1
+> DEBUG: givenBonds: false
+173a266
+> DEBUG: display
+181a275,280
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+190a290
+> DEBUG: readIn function
+191a292,294
+> DEBUG: readIn function
+> DEBUG: columme: 2
+> DEBUG: givenBonds: false
+192a296
+> DEBUG: display
+200a305,310
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+209a320
+> DEBUG: readIn function
+210a322,324
+> DEBUG: readIn function
+> DEBUG: columme: 3
+> DEBUG: givenBonds: false
+211a326
+> DEBUG: display
+219a335,340
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+228a350
+> DEBUG: readIn function
+229a352,354
+> DEBUG: readIn function
+> DEBUG: columme: 4
+> DEBUG: givenBonds: false
+230a356
+> DEBUG: display
+238a365,370
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+247a380
+> DEBUG: readIn function
+248a382,384
+> DEBUG: readIn function
+> DEBUG: columme: 5
+> DEBUG: givenBonds: false
+249a386
+> DEBUG: display
+257a395,400
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+266a410
+> DEBUG: readIn function
+267a412,414
+> DEBUG: readIn function
+> DEBUG: columme: 6
+> DEBUG: givenBonds: false
+268a416
+> DEBUG: display
+276a425,430
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+285a440
+> DEBUG: readIn function
+286a442,444
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+287a446
+> DEBUG: display
+295a455,460
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+304a470
+> DEBUG: readIn function
+305a472,474
+> DEBUG: readIn function
+> DEBUG: columme: 1
+> DEBUG: givenBonds: false
+306a476
+> DEBUG: display
+314a485,490
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+323a500
+> DEBUG: readIn function
+324a502,504
+> DEBUG: readIn function
+> DEBUG: columme: 2
+> DEBUG: givenBonds: false
+325a506
+> DEBUG: display
+333a515,520
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+342a530
+> DEBUG: readIn function
+343a532,534
+> DEBUG: readIn function
+> DEBUG: columme: 3
+> DEBUG: givenBonds: false
+344a536
+> DEBUG: display
+352a545,550
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+361a560
+> DEBUG: readIn function
+362a562,564
+> DEBUG: readIn function
+> DEBUG: columme: 4
+> DEBUG: givenBonds: false
+363a566
+> DEBUG: display
+371a575,580
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+380a590
+> DEBUG: readIn function
+381a592,594
+> DEBUG: readIn function
+> DEBUG: columme: 5
+> DEBUG: givenBonds: false
+382a596
+> DEBUG: display
+390a605,610
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+399a620
+> DEBUG: readIn function
+400a622,624
+> DEBUG: readIn function
+> DEBUG: columme: 6
+> DEBUG: givenBonds: false
+401a626
+> DEBUG: display
+409a635,640
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+418a650
+> DEBUG: readIn function
+419a652,654
+> DEBUG: readIn function
+> DEBUG: columme: 5
+> DEBUG: givenBonds: false
+420a656
+> DEBUG: display
+428a665,670
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+437a680
+> DEBUG: readIn function
+438a682,684
+> DEBUG: readIn function
+> DEBUG: columme: 6
+> DEBUG: givenBonds: false
+439a686
+> DEBUG: display
+447a695,700
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+456a710
+> DEBUG: readIn function
+457a712,714
+> DEBUG: readIn function
+> DEBUG: columme: 3
+> DEBUG: givenBonds: false
+458a716
+> DEBUG: display
+466a725,730
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+475a740
+> DEBUG: readIn function
+476a742,744
+> DEBUG: readIn function
+> DEBUG: columme: 4
+> DEBUG: givenBonds: false
+477a746
+> DEBUG: display
+485a755,760
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+494a770
+> DEBUG: readIn function
+495a772,774
+> DEBUG: readIn function
+> DEBUG: columme: 1
+> DEBUG: givenBonds: false
+496a776
+> DEBUG: display
+504a785,790
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+513a800
+> DEBUG: readIn function
+514a802,804
+> DEBUG: readIn function
+> DEBUG: columme: 2
+> DEBUG: givenBonds: false
+515a806
+> DEBUG: display
+523a815,820
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+532a830
+> DEBUG: readIn function
+533a832,834
+> DEBUG: readIn function
+> DEBUG: columme: 6
+> DEBUG: givenBonds: false
+534a836
+> DEBUG: display
+542a845,850
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+551a860
+> DEBUG: readIn function
+552a862,864
+> DEBUG: readIn function
+> DEBUG: columme: 5
+> DEBUG: givenBonds: false
+553a866
+> DEBUG: display
+561a875,880
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+570a890
+> DEBUG: readIn function
+571a892,894
+> DEBUG: readIn function
+> DEBUG: columme: 4
+> DEBUG: givenBonds: false
+572a896
+> DEBUG: display
+580a905,910
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+589a920
+> DEBUG: readIn function
+590a922,924
+> DEBUG: readIn function
+> DEBUG: columme: 3
+> DEBUG: givenBonds: false
+591a926
+> DEBUG: display
+599a935,940
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+608a950
+> DEBUG: readIn function
+609a952,954
+> DEBUG: readIn function
+> DEBUG: columme: 2
+> DEBUG: givenBonds: false
+610a956
+> DEBUG: display
+618a965,970
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+627a980
+> DEBUG: readIn function
+628a982,984
+> DEBUG: readIn function
+> DEBUG: columme: 1
+> DEBUG: givenBonds: false
+629a986
+> DEBUG: display
+637a995,1000
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+646a1010
+> DEBUG: readIn function
+647a1012,1014
+> DEBUG: readIn function
+> DEBUG: columme: 6
+> DEBUG: givenBonds: false
+648a1016
+> DEBUG: display
+656a1025,1030
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+665a1040
+> DEBUG: readIn function
+666a1042,1044
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+667a1046
+> DEBUG: display
+675a1055,1060
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+684a1070
+> DEBUG: readIn function
+685a1072,1074
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+686a1076
+> DEBUG: display
+694a1085,1090
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+703a1100
+> DEBUG: readIn function
+704a1102,1104
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+705a1106
+> DEBUG: display
+713a1115,1120
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+722a1130
+> DEBUG: readIn function
+723a1132,1134
+> DEBUG: readIn function
+> DEBUG: columme: 1
+> DEBUG: givenBonds: false
+724a1136
+> DEBUG: display
+732a1145,1150
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+741a1160
+> DEBUG: readIn function
+742a1162,1164
+> DEBUG: readIn function
+> DEBUG: columme: 2
+> DEBUG: givenBonds: false
+743a1166
+> DEBUG: display
+751a1175,1180
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+760a1190
+> DEBUG: readIn function
+761a1192,1194
+> DEBUG: readIn function
+> DEBUG: columme: 3
+> DEBUG: givenBonds: false
+762a1196
+> DEBUG: display
+770a1205,1210
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+779a1220
+> DEBUG: readIn function
+780a1222,1224
+> DEBUG: readIn function
+> DEBUG: columme: 4
+> DEBUG: givenBonds: false
+781a1226
+> DEBUG: display
+789a1235,1240
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+798a1250
+> DEBUG: readIn function
+799a1252,1254
+> DEBUG: readIn function
+> DEBUG: columme: 5
+> DEBUG: givenBonds: false
+800a1256
+> DEBUG: display
+808a1265,1271
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+> DEBUG: WE are in endGame
+812a1276
+> DEBUG: readIn function
+821a1286
+> DEBUG: readIn function
+822a1288,1290
+> DEBUG: readIn function
+> DEBUG: columme: 0
+> DEBUG: givenBonds: false
+823a1292
+> DEBUG: display
+831a1301,1306
+> DEBUG: START
+> OF CHECK
+> 
+> STAR!!!!
+> DEBUG: Last PRINT - One: 0 Two: 0 winner: 0
+> DEBUG: __________________________________________________________--0
+840a1316
+> DEBUG: readIn function

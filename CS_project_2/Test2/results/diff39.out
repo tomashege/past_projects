@@ -1,0 +1,419 @@
+1615,1633d1614
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 * * * * * * *  
+< 4 * * * * * * *  
+< 5 R * * * * * *  
+< 
+1651c1632
+< 5 R Y * * * * *  
+---
+> 5 Y * * * * * * 
+1670c1651
+< 5 R Y R * * * *  
+---
+> 5 Y R * * * * * 
+1689c1670
+< 5 R Y R Y * * *  
+---
+> 5 Y R Y * * * * 
+1708c1689
+< 5 R Y R Y R * *  
+---
+> 5 Y R Y R * * * 
+1727c1708
+< 5 R Y R Y R Y *  
+---
+> 5 Y R Y R Y * * 
+1746c1727
+< 5 R Y R Y R Y R  
+---
+> 5 Y R Y R Y R * 
+1764,1765c1745,1746
+< 4 Y * * * * * *  
+< 5 R Y R Y R Y R  
+---
+> 4 * * * * * * * 
+> 5 Y R Y R Y R Y 
+1783,1784c1764,1765
+< 4 Y R * * * * *  
+< 5 R Y R Y R Y R  
+---
+> 4 R * * * * * * 
+> 5 Y R Y R Y R Y 
+1802,1803c1783,1784
+< 4 Y R Y * * * *  
+< 5 R Y R Y R Y R  
+---
+> 4 R Y * * * * * 
+> 5 Y R Y R Y R Y 
+1821,1822c1802,1803
+< 4 Y R Y R * * *  
+< 5 R Y R Y R Y R  
+---
+> 4 R Y R * * * * 
+> 5 Y R Y R Y R Y 
+1840,1841c1821,1822
+< 4 Y R Y R Y * *  
+< 5 R Y R Y R Y R  
+---
+> 4 R Y R Y * * * 
+> 5 Y R Y R Y R Y 
+1859,1860c1840,1841
+< 4 Y R Y R Y R *  
+< 5 R Y R Y R Y R  
+---
+> 4 R Y R Y R * * 
+> 5 Y R Y R Y R Y 
+1878,1879c1859,1860
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 4 R Y R Y R Y * 
+> 5 Y R Y R Y R Y 
+1896,1898c1877,1879
+< 3 R * * * * * *  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 3 * * * * * * * 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+1915,1917c1896,1898
+< 3 R Y * * * * *  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 3 Y * * * * * * 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+1934,1936c1915,1917
+< 3 R Y R * * * *  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 3 Y R * * * * * 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+1953,1955c1934,1936
+< 3 R Y R Y * * *  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 3 Y R Y * * * * 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+1972,1974c1953,1955
+< 3 R Y R Y R * *  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 3 Y R Y R * * * 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+1991,1993c1972,1974
+< 3 R Y R Y R Y *  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 3 Y R Y R Y * * 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2010,2012c1991,1993
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 3 Y R Y R Y R * 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2028,2031c2009,2012
+< 2 * * * * * Y *  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 2 * * * * * * * 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2047,2050c2028,2031
+< 2 * * * * * Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 2 * * * * * R * 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2066,2069c2047,2050
+< 2 * * * Y * Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 2 * * * * * R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2085,2088c2066,2069
+< 2 * * * Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 2 * * * R * R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2104,2107c2085,2088
+< 2 * Y * Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 2 * * * R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2123,2126c2104,2107
+< 2 * Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 2 * R * R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2141,2145c2122,2126
+< 1 * * * * * * Y  
+< 2 * Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 1 * * * * * * * 
+> 2 * R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2160,2164c2141,2145
+< 1 * * * * * R Y  
+< 2 * Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 1 * * * * * * R 
+> 2 * R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2179,2183c2160,2164
+< 1 * * * * Y R Y  
+< 2 * Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 1 * * * * * Y R 
+> 2 * R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2198,2202c2179,2183
+< 1 * * * R Y R Y  
+< 2 * Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 1 * * * * R Y R 
+> 2 * R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2217,2221c2198,2202
+< 1 * * Y R Y R Y  
+< 2 * Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 1 * * * Y R Y R 
+> 2 * R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2236,2240c2217,2221
+< 1 * R Y R Y R Y  
+< 2 * Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 1 * * R Y R Y R 
+> 2 * R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2254,2259c2235,2240
+< 0 * * * * * * Y  
+< 1 * R Y R Y R Y  
+< 2 * Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 0 * * * * * * * 
+> 1 * Y R Y R Y R 
+> 2 * R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2273,2278c2254,2259
+< 0 * * * * * * Y  
+< 1 * R Y R Y R Y  
+< 2 R Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 0 * * * * * * R 
+> 1 * Y R Y R Y R 
+> 2 * R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2292,2297c2273,2278
+< 0 * * * * * * Y  
+< 1 Y R Y R Y R Y  
+< 2 R Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 0 * * * * * * R 
+> 1 * Y R Y R Y R 
+> 2 Y R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2311,2316c2292,2297
+< 0 R * * * * * Y  
+< 1 Y R Y R Y R Y  
+< 2 R Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 0 * * * * * * R 
+> 1 R Y R Y R Y R 
+> 2 Y R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2330,2335c2311,2316
+< 0 R Y * * * * Y  
+< 1 Y R Y R Y R Y  
+< 2 R Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 0 Y * * * * * R 
+> 1 R Y R Y R Y R 
+> 2 Y R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2349,2354c2330,2335
+< 0 R Y R * * * Y  
+< 1 Y R Y R Y R Y  
+< 2 R Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 0 Y R * * * * R 
+> 1 R Y R Y R Y R 
+> 2 Y R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2368,2373c2349,2354
+< 0 R Y R Y * * Y  
+< 1 Y R Y R Y R Y  
+< 2 R Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 0 Y R Y * * * R 
+> 1 R Y R Y R Y R 
+> 2 Y R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2387,2392c2368,2373
+< 0 R Y R Y R * Y  
+< 1 Y R Y R Y R Y  
+< 2 R Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 0 Y R Y R * * R 
+> 1 R Y R Y R Y R 
+> 2 Y R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+2406,2411c2387,2411
+< 0 R Y R Y R Y Y  
+< 1 Y R Y R Y R Y  
+< 2 R Y R Y R Y R  
+< 3 R Y R Y R Y R  
+< 4 Y R Y R Y R Y  
+< 5 R Y R Y R Y R  
+---
+> 0 Y R Y R Y * R 
+> 1 R Y R Y R Y R 
+> 2 Y R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 
+> 
+> Player 1's turn (You are Red):
+> Choose your move: 
+>  1. Play Normal 
+>  2. Play Bomb (2 left) 
+>  3. Play Teleportation (2 left) 
+>  4. Play Colour Changer (2 left)
+>  5. Display Gameboard 
+>  6. Load Test File 
+>  0. Exit
+> Choose a column to play in:
+> 
+>   0 1 2 3 4 5 6 
+> 0 Y R Y R Y R R 
+> 1 R Y R Y R Y R 
+> 2 Y R Y R Y R Y 
+> 3 Y R Y R Y R Y 
+> 4 R Y R Y R Y R 
+> 5 Y R Y R Y R Y 

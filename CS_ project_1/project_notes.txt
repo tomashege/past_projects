@@ -1,0 +1,56 @@
+1. test the input file
+    a. i have created the classes for the peaces
+    b. what way is the best (test and then input it into the arry) or (while you input it into the array?)
+    c. Where should we go 
+2. do the game
+
+
+
+
+k / K - King
+r / R - Rook
+q / Q - Queen
+n / N - Knight
+b / B - Bishop
+p / P - Pawn
+d / D - Drunken Pawn
+f / F - Flying Dragon
+e / E - Elephant
+a / A - Amazon
+w / W - Princess
+
+
+
+
+n:4
+b:2
+q:1
+p:8
+d:2
+k:1
+r:2
+-----
+r n n b q k b n n r
+p p d p p p p d p p
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+P P D P P P P D P P
+R N N B Q K B N N R
+-----
+w:++++:0:0
+
+
+Castling is a move that can be performed by a King and one of the two Rooks,
+given that neither the chosen Rook nor the King have moved since the start
+of the game. Castling is either queenside, where the King moves a distance of
+three squares to the left, or kingside, where the King moves a distance of three
+squares to the right. The move is completed by the Rook then jumping over
+the King, landing adjacent to the King. Castling may only be done if the King
+has never moved, the Rook involved has never moved, the squares between the
+King and the Rook involved are unoccupied, the King is not in check, and the
+King does not cross over or end on a square in check. Figure 2 illustrates the
+castling opportunities
